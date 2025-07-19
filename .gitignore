@@ -1,0 +1,47 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# Pytest cache
+.pytest_cache/
+
+# Test reports / logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.out
+*.xml
+*.html
+allure-results/
+allure-report/
+
+# VSCode / JetBrains IDE config
+.vscode/
+.idea/
+
+# Python dependency files
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter / notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
